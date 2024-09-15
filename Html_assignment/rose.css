@@ -1,0 +1,109 @@
+.main_div{
+    display: flex;
+    justify-content: center;
+}
+.cen_leaf{
+    border-radius: 20px 20px 0px 0px;
+    border: 1px solid rgb(255, 0, 43);
+    height: 100px;
+    width: 80px;
+    position: absolute;
+    margin-left: 80px;
+    background-color: rgb(252, 72, 102);
+    margin-top: 30px;
+   
+}
+.leaf1{
+    border: 1px solid rgb(214, 104, 122);
+    border-radius: 0px 50px;
+    height: 100px;
+    width: 100px;
+    background-color: rgb(216, 106, 124);
+    margin-top: 50px;
+    position: absolute;
+    
+}
+.leaf2{
+    border: 1px solid pink;
+    border-radius: 50px 0px;
+    height: 100px;
+    width: 100px;
+    background-color: rgb(216, 106, 124);
+
+    margin-top: 50px;
+    margin-left: 150px;
+    position: absolute;
+
+
+}
+.leaf3{
+    border: 1px solid pink;
+    border-radius: 0px 50px;
+    height: 100px;
+    width: 100px;
+    background-color: rgb(255, 145, 163);
+    
+    position: absolute;
+    margin-top: 80px;
+    transform: rotate(-20deg);
+    
+
+    
+}
+.leaf4{
+    border: 1px solid pink;
+    border-radius: 50px 0px;
+    height: 100px;
+    width: 100px;
+    transform: translateY(40%);
+    background-color: rgb(255, 145, 163);
+    position: absolute;
+    margin-left: 150px;
+    margin-top: 80px;
+    transform: rotate(20deg);
+
+
+
+}
+.vr{
+    width: 240px;
+    height: 40px;
+    background: transparent;
+    border: 8px solid #8ac78a;
+    border-color: #77a377 transparent transparent transparent;
+    border-radius: 50% 50%;
+    transform: rotate(100deg);
+    margin-left: 639px;
+    margin-top: 249px;
+}
+.leaf5{
+    border: 1px solid pink;
+    border-radius: 0px 50px;
+    height: 50px;
+    width: 80px;
+    background-color: rgb(0, 152, 10);
+    
+    position: absolute;
+    margin-left: 713px;
+    transform: rotate(10deg);
+    margin-top: -100px;
+
+    
+}
+.leaf6{
+    border: 1px solid pink;
+    border-radius: 50px 0px;
+    height: 50px;
+    width: 80px;
+    transform: translateY(40%);
+    background-color: rgb(0, 152, 10);
+
+    position: absolute;
+    margin-left: 797px;
+   
+    transform: rotate(10deg);
+    margin-top: -65px;
+
+
+
+}
