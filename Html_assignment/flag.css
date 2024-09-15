@@ -1,0 +1,51 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f0f0f0;
+    margin: 0;
+}
+
+.flag {
+    width: 300px;
+    height: 180px;
+    border: 1px solid #000;
+}
+
+.saffron, .white, .green {
+    height: 33.33%;
+    width: 100%;
+}
+
+.saffron {
+    background-color: #FF9933;
+}
+
+.white {
+    background-color: #FFFFFF;
+    position: relative;
+}
+
+.green {
+    background-color: #138808;
+}
+
+.chakra {
+   height: 50px;
+   width: 50px;
+   margin-left: 120px;
+   margin-top: 5px;
+}
+.line{
+    border-left: 14px solid rgb(121, 66, 0);
+  height: 500px;
+  position: absolute;
+  left: 50%;
+  margin-left: -150px;
+  top: 0;
+  margin-top:477px ;
+}
+
+
+
