@@ -1,0 +1,55 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+.profile_title{
+    height: 200px;
+    
+    background-color: rgba(9, 168, 241, 0.5);
+    position: relative;
+}
+#profile_text{
+    margin-top: 70px;
+    margin-left: 200px;
+    position: absolute;
+    font-size: 40px;
+    font-weight: bold;
+    color: rgb(0,140,255);
+}
+.intro_profile{
+    margin-top: 50px;
+    display: flex;
+    
+    width: 100%;
+    
+    
+}
+.p_image{
+   
+   
+    margin-left: 200px;
+    
+   
+   
+    
+
+}
+.d_image{
+   height: 300px;
+   width: 350px;
+  
+   
+  
+   
+
+
+}
+.d_name{
+
+   
+    margin-left: 50px;
+
+
+}
+
+
